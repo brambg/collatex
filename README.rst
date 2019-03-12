@@ -11,8 +11,8 @@ CollateX-Python
   .. image:: https://pypip.in/d/collatex/badge.png
 		:target: https://pypi.python.org/pypi/collatex
 
-	.. image:: https://mybinder.org/badge_logo.svg
- 		:target: https://mybinder.org/v2/gh/brambg/collatex/python-port?filepath=near_matching_analysis.ipynb
+.. image:: https://mybinder.org/badge_logo.svg
+		:target: https://mybinder.org/v2/gh/brambg/collatex/python-port?filepath=near_matching_analysis.ipynb
 
 CollateX is software to
 
