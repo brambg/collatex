@@ -11,8 +11,10 @@ CollateX-Python
   .. image:: https://pypip.in/d/collatex/badge.png
 		:target: https://pypi.python.org/pypi/collatex
 
+	.. image:: https://mybinder.org/badge_logo.svg
+ 		:target: https://mybinder.org/v2/gh/brambg/collatex/python-port?filepath=near_matching_analysis.ipynb
 
-CollateX is a software to
+CollateX is software to
 
 - read multiple (>= 2) versions of a text, splitting each version into parts (tokens) to be compared,
 - identify similarities of and differences between the versions (including moved/transposed segments) by aligning tokens, and
